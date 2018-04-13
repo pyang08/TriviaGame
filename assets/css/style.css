@@ -1,0 +1,31 @@
+body {
+  background-image: url("http://i0.kym-cdn.com/entries/icons/original/000/023/653/maxresdefault.jpg"); 
+  background-repeat: no-repeat;
+  background-position: cover;
+  background-size: 100%;
+  color: white;
+  font-size: 20px;
+  font-family: 'Gloria Hallelujah', cursive;
+  }
+
+.jumbotron {
+  box-sizing: border-box;
+  height: 600px;
+  background-color: #000;
+  background: rgba(0,0,0,0.4); 
+}
+
+.main-button-container {
+  margin-top: 50px;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.btn {
+  margin: auto;
+  background-color: #8904B1;
+  border-color: #8904B1;
+  text-align: center;
+}
+
